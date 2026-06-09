@@ -1,1 +1,4 @@
-# microsoft-ai-skill-fest-2026
+# Microsoft AI Skills Fest 2026
+
+This repository documents my learning journey during **Microsoft AI Skills Fest 2026**.
+
